@@ -10,6 +10,10 @@ It provides a simple web interface for real-time interaction.
 - AI-powered responses
 - Simple web interface using Gradio
 - Fast and interactive
+- ## 💬 Chat Features
+- Multi-turn conversation
+- Chat history support
+- Real-time responses
 
 ## 🛠️ Technologies Used
 - Python
